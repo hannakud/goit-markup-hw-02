@@ -22,7 +22,6 @@ body {
 
 .header {
   border-bottom: 1px solid #ececec;
-  background-color: var(--white-color);
   line-height: 1.17;
 }
 
